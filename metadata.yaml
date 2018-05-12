@@ -1,11 +1,16 @@
 _repo: The-Maternal-Management-of-Children-in-Health-and-Disease_10383
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bull, Thomas
     gutenberg_agent_id: '3501'
     url: http://www.gutenberg.org/2009/agents/3501
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10383#The-Maternal-Management-of-Children-in-Health-and-Disease
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
